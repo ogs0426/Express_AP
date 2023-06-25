@@ -1,0 +1,35 @@
+{
+  "success": "성공",
+  "warning": "주의",
+  "fail": "실패",
+  "axios": {
+    "success": {
+      "create": "추가되었습니다.",
+      "update": "수정되었습니다.",
+      "set": "설정되었습니다."
+    },
+    "fail": {
+      "create": "추가 실패하였습니다.",
+      "update": "수정 실패하였습니다.",
+      "delete": "삭제 실패하였습니다.",
+      "set": "설정 실패하였습니다."
+    }
+  },
+  "button": {
+    "add": "추가",
+    "delete": "삭제",
+    "close": "닫기",
+    "apply": "설정",
+    "confirm": "확인"
+  },
+  "select": {
+    "row": "항목을 선택해주세요.",
+    "image_file": "이미지 선택",
+    "file": "파일 선택",
+    "date": "날짜를 선택해주세요."
+  },
+  "login": {
+    "invalid": "로그인 정보가 올바르지 않습니다.",
+    "expireInLogon": "로그온 시간이 만료되었습니다."
+  }
+}
